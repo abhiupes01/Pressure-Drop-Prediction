@@ -9,4 +9,4 @@ The full article can be found at  [this link](https://www.mdpi.com/2076-3417/10/
 The paper discusses the result of Random Forest, Support Vector Machine, Artificial Neural Network and Bayesian Neural Network on the non-Newtonian fluid flow in a concentric and eccentric annulus. 
 
 ## Prediction results from Support Vector Machine
-[Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g001-550.jpg)
+![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g001-550.jpg)
