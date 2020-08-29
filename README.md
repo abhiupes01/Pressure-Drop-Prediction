@@ -17,11 +17,14 @@ The paper discusses the result of Random Forest, Support Vector Machine, Artific
 ## Prediction results from Bayesian Neural Network
 ![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g006-550.jpg)
   
-* Optimization of Number of Neurons and Number of layers ![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g003-550.jpg)
+###Optimization of Number of Neurons and Number of layers 
+![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g003-550.jpg)
   
-* Optimization of Number of Neurons and Learning Rate![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g004-550.jpg)
+###Optimization of Number of Neurons and Learning Rate
+![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g004-550.jpg)
   
-* Sampling of activation function![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g005-550.jpg)
+###Sampling of activation function
+![Show](https://www.mdpi.com/applsci/applsci-10-02588/article_deploy/html/images/applsci-10-02588-g005-550.jpg)
   
 
 ## Prediction results from Random Forest
